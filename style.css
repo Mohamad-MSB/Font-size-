@@ -1,0 +1,31 @@
+:root{
+    font-size: 15px;
+    --dahabi: #fffb1e;
+    --adani: #55d541;
+}
+.x-small{
+    font-size: .6rem;
+}
+.small{
+    font-size: 1rem;
+}
+.medium{
+    font-size: 1.5rem;
+}
+.large{
+    font-size: 2.5rem;
+}
+.x-large{
+    font-size : 3rem;
+}
+body{
+    background-color: var(--dahabi);
+}
+footer{
+    font-size: 2rem;
+    color: var(--dahabi);
+    background-color: var(--adani);
+}
+.description{
+    font-size: 1rem;
+}
